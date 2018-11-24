@@ -1,0 +1,60 @@
+body{
+	background-image: url(../Image/bg1.jpg);
+}
+div {
+
+    height: 800px; /* height of block */
+    width: 750px;	/*width of block */
+    margin: 0 auto; /*position of blcok */
+    border: 10px ridge #FF5E00; /* Characteristics of block */
+    background-color: #F6FFC1; /*color of block */
+   
+ }
+
+#header{ 					/*id of header"Bakhramov Jasurkhon */
+	text-align: center;
+	font-size: 30px;
+	color: #191970;
+}
+h2{						/* hobbies*/
+	color:#191970; 
+}
+#Image {					/*id of avatar */
+    display: inline-block;
+    float: right;
+    margin-right: 30px;
+    width: 230px;
+    height: 250px;
+}
+p, li,a{
+	font-size: 17px;
+}
+p, h1, li, a {
+font-family: Verdana;
+}
+
+
+p{
+	margin-right: 15x;
+	text-align: ;
+}
+
+a:link{
+	color: #5AFF1E;
+}
+a:visited{
+	color: #FF000D;
+}
+a:hover{
+	color: #00E1FF;
+}
+a:active{
+	color: #FF9900;
+}
+
+.fontColor{
+	color: #708090	;
+}
+.fontColor2{
+	color: #FF4500;
+}
